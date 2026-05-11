@@ -53,7 +53,6 @@ Telco Customer Churn Dataset
 ## Files Included
 - Customer_Retention_Churn_Analysis_Report.docx
 - Cleaned_Telco_Churn_Data.xlsx
-- Additional Task Files
 - README.md
 
 ---
